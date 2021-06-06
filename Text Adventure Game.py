@@ -60,7 +60,7 @@ def option_cave():
         print("\n You are now hidden while the orc tries to find you. Hide Safely!")
     elif choice in ans_B:
         if sword > 0:
-            print("\nYou seem brave to take this chance. You are now trying to fight the orc. After a feirce battle you killed the beast and you have survived, and you returned you home safely YAY!!!!!!.")
+            print("\nYou seem brave to take this chance. You are now trying to fight the orc. After a feirce battle you killed the beast and you have survived, and you returned your home safely YAY!!!!!!.")
         else:
             print("You tried to fight the beast without sword, you are now dead. ")
     elif choice in ans_C:
